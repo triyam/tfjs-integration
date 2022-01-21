@@ -10,7 +10,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^3.12.0",
+    "@tensorflow/tfjs-react-native": "^0.8.0",
+    "async-storage": "^0.1.0",
     "expo": "~44.0.0",
+    "expo-camera": "^12.1.0",
+    "expo-gl": "^11.1.1",
+    "expo-gl-cpp": "^11.1.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
